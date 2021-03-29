@@ -5,6 +5,10 @@ body {
 padding-top: 20px;
 }
 
+.card-img-top {
+max-height: 250px;
+}
+
 /*martinmolnar.html*/
 #molles-id {
 font-weight: bold;
