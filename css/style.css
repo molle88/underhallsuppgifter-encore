@@ -1,5 +1,9 @@
 All css-edits are placed here within comments. Remember to use page-specific classes. Use same standard as the example below.
 
+body {
+padding-top: 20px;
+}
+
 /*martinmolnar.html*/
 #molles-id {
 font-weight: bold;
